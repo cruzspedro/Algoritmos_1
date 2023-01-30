@@ -1,3 +1,4 @@
-# administrando_contatinhos_alg1
-Parte 1 do trabalho 1 da disciplina SCC0502 - Algoritmos e Estruturas de Dados I 
-Segundo semestre de 2022, Sistemas de Informação
+# administrando_contatinhos
+Código simples, em linguagem C, para organização de "agenda" com contatos de telefone.
+Atividade proposta na disciplina de Algoritmos e Estruturas de dados.
+Foi utilizada uma lista simplesmente ligada na atividade.
