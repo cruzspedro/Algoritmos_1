@@ -1,2 +1,2 @@
 # Algoritmos_1
-Códigos e programas envolvendo estruturas de dados básicas
+Este repositório contém códigos e programas envolvendo estruturas de dados básicas, atividades propostas na disciplina de Algoritmos e Estruturas de Dados.
